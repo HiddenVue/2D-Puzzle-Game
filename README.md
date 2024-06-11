@@ -1,7 +1,7 @@
 # 2D-Puzzle-Game
 > A simple puzzle game made with python and pygame
 
-### 📢 [[itch page](https://hiddenvue.itch.io/blocker-2)
+### 📢 [itch page](https://hiddenvue.itch.io/blocker-2)
 
 ## 📜 Game Infomation
  
