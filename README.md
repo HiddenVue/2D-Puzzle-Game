@@ -13,7 +13,6 @@
 
 **Required To Run**
 * 💻 Windows
-* 🗂 Any graphics card
 
 ## 🎮 How to play
 ```
