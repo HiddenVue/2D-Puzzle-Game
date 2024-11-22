@@ -14,12 +14,4 @@
 **Required To Run**
 * 💻 Windows
 
-## 🎮 How to play
-```
-The goal of the game is to fill in all the tiles on the screen like you would in a snake game
-if you get trapped and your unable to move, the level restarts you can also restart the level by pressing r 
-once every tile on the screen is filled you can move to the next level
-you can also switch between levels you have beaten.
-```
-#
 ### [license](https://raw.githubusercontent.com/HiddenVue/2D-Puzzle-Game/main/LICENSE)
